@@ -25,4 +25,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 # Project Image
 
-![github](github.PNG)
+![github](github.png)
